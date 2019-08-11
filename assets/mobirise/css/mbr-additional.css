@@ -1929,6 +1929,7 @@ body {
 }
 .cid-rwbCV87MFE .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
 }
 .cid-rwbFWLbUq0 {
   padding-top: 90px;
@@ -2138,8 +2139,9 @@ body {
   min-height: 188px;
 }
 .cid-rwbBYnzDOq {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/giphy.gif");
 }
 .cid-rwbBYnzDOq .mbr-section-subtitle {
   color: #ffffff;
