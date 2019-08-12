@@ -2206,7 +2206,8 @@ body {
   }
 }
 @media (max-width: 550px) {
-  .cid-rwbBYnzDOq .col-xs-3 {
+  .cid-rwbBYnzDOq .
+  {
     padding-left: 0;
     padding-right: 0;
     max-width: 25%;
@@ -2219,7 +2220,7 @@ body {
 @media (max-width: 440px) {
   .cid-rwbBYnzDOq .number,
   .cid-rwbBYnzDOq .dot {
-    font-size: 40px;
+    font-size: 36px;
   }
 }
 @media (max-width: 380px) {
